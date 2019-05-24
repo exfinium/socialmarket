@@ -4,7 +4,7 @@ Market regulated social network project.
 
 ## Principles
 ### Meaningful communication
-Humans are generally more thoughtful and intentional when the stakes are tangible. By placing a price on participation in a public forum the hope is to facilitate more meaningful communication.
+Humans are generally more thoughtful and intentional when the stakes are tangible. By requiring interactions in a public forum to be backed by tangible value the hope is to facilitate more meaningful communication.
 ### Spontaneous order
 Provide a place for people to communicate and reward the communication of others and various patterns of talent and cooperation will emerge.  If that place is devoid of arbitrary external regulation it will nevertheless become regulated by the sorting of the values of the participants. 
 ### True proximal price
