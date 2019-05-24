@@ -38,6 +38,14 @@ There will be user, post and transaction, databases that should be fully searcha
 
 ## Transactions:
 
+Pip a post (show approval/appreciation)
+* elevate the post's ranking
+* reward the poster
+
+Kip a post (show disapproval/offence)
+* suppress the post's ranking
+* compensate the common
+
 User account create / modify
 * authentication credential
 * database record 
@@ -53,13 +61,5 @@ View posts
 Create post
 * database update
 * web host
-
-Pip a post (show approval/appreciation)
-* elevate the post's ranking
-* reward the poster
-
-Kip a post (show disapproval/offence)
-* suppress the post's ranking
-* reward the common
 
 
