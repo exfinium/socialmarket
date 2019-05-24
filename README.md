@@ -14,6 +14,6 @@ Rough estimate of initial profit milestone.
 ## Transactions:
 
 User account create / modify
-	* Authentication credential
-	* Database record 
-	* Payment processing
+* Authentication credential
+* Database record 
+* Payment processing
