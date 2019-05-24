@@ -1,7 +1,18 @@
 # social market
 
-Market regulated social network with completely granular userpay (avoiding all cases of one activity subsidising another and especially one user implicitly subsidising another as much as technology permits)
+Market regulated social network project.
 
+## Principles
+### Meaningful communication
+Humans are generally more thoughtful and intentional when the stakes are tangible. By placing a price on participation in a public forum the hope is to facilitate more meaningful communication.
+### Spontaneous order
+Provide a place for people to communicate and reward the communication of others and various patterns of cooperation will emerge.  If that place is devoid of arbitrary external regulation it will nevertheless become regulated by the sorting of the values of the participants. 
+### True proximal price
+Everything has a cost, a value, and a price.  Many things seem free because the actual cost is hidden elsewhere.  A system that works to reveal all costs immediately and proximally provides the best foundation for rationally sorting values.
+
+## Technology
+### Microtransactions
+To facilitate frequent proximal frictionless exchanges of value with sufficently minimal overhead requires the implementation of a grade separated currency, similar in principle to tradable currecies found in many persistent computer game worlds.
 
 ## Rough estimate of initial profit milestone.
 * 1,000,000 registered users
