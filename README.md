@@ -11,7 +11,7 @@ Rough estimate of initial profit milestone.
 * $11,000 daily post/view income
 * $1000 daily profit
 
-##Transactions:
+## Transactions:
 
 User account create / modify
 	* Authentication credential
