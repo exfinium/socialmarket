@@ -19,7 +19,7 @@ The upside for the big spending participants is quite limited compared to the do
 How indeed will people behave in the abscence of clear authority?  Hopefully better than some would presume. Lack of singular authority doesn't mean lack of regulation or moderation, mind.  Every participant wields partial authority and the means to award merit and consequence. Conventions will emerge, some obvious, maybe some novel, some strict, some loose.  Currently implemented unmoderated forums frequently trend towards antisocial environments but the hope is that anchoring a reward system in tangible value will give rationality and real merit room to flourish.
 
 #### But what about the truly vile?
-There's a button for that, called kip.  It's a little bit of shoosh (or a lot) that you can wield on behalf of everybody when the occasion warrants it.  You will need to pay the common in proportion to how heavily you wield it, and if done wisely people might be doubly grateful.  You could also just filter out potential vileness as you see fit.
+There's a button for that, called kip.  It's a little bit of shoosh that you can wield on behalf of everybody when the occasion warrants it.  You will need to pay the common in proportion to how heavily you wield it, and if done wisely people might be doubly grateful.  You could also just filter out potential vileness as you see fit.
 
 #### But but criminally vile?
 Report criminal activity to the geographically relevant civil authority.  The forum management will comply with court orders in the jurisdictions it is subject to.
