@@ -13,7 +13,7 @@ Everything has a cost, a value, and a price.  Many things seem free because the 
 ### Secrets impede trust
 Secrets are important to people for various reasons.  This project will honour participants dignity by clearly and loudly declaring this place as devoid of any safe spaces for secrets.  It is unapologetically and completely public.
 ### Pure universality
-Every participant and every idea has equal opportunity and no person, group or idea will be granted privilege or penalty by the system itself.
+Every participant and every idea has equal opportunity and no person, group or idea will be granted privilege or penalty by the system itself.  There will be no moderation of content by human or AI.  The system will simply uprank the most valued and downrank the least valued content and give participants the freedom to choose how that ranking applies to their feed.
 ### Positive credit
 The system does not allow the taking of credit - only the giving of it.  Negative feedback exists but when you pay to disapprove of a post the payment goes to the commons and lifts everyone's balance.  Paying to approve of your own posts does the same.
 
@@ -22,6 +22,9 @@ The system does not allow the taking of credit - only the giving of it.  Negativ
 To facilitate frequent proximal frictionless exchanges of value with sufficiently minimal overhead requires the implementation of a grade separated currency, similar in principle to tradable currencies found in many persistent computer game worlds.
 ### Floating exchange rate
 Value tokens within the system will not be pinned to any real world currency and will instead be regularly or constantly adjusted to follow the mean transaction value.  Account balances will be accounted as a share of total capitalisation of the market.
+### Databases
+There will be user, post and transaction, databases that should be fully searchable directly by all participants.(for a fee based on running cost)
+
 
 ## Rough estimate of break even milestone.
 * 1,000,000 registered users
