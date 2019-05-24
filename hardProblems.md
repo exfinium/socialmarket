@@ -13,3 +13,8 @@
 Show me something that is truly free and I will show you something that is truly meaningless.
 ### expectation jolt
 ### made possible by microtransactions
+
+
+## profitability
+### competition
+### scale
