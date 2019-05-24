@@ -1,9 +1,9 @@
 # social market
 
-## Market regulated social network with completely granular userpay (avoiding all cases of one activity subsidising another and especially one user subsidising another as much as technology permits)
+Market regulated social network with completely granular userpay (avoiding all cases of one activity subsidising another and especially one user subsidising another as much as technology permits)
 
 
-Rough estimate of initial profit milestone.
+## Rough estimate of initial profit milestone.
 * 1,000,000 registered users
 * 1,000,000 daily posts @ $0.01
 * 100,000,000 posts viewed daily @ $0.00001
