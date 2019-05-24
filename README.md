@@ -1,6 +1,6 @@
-#social market
+# social market
 
-##Market regulated social network with completely granular userpay (avoiding all cases of one activity subsidising another and especially one user subsidising another as much as technology permits)
+## Market regulated social network with completely granular userpay (avoiding all cases of one activity subsidising another and especially one user subsidising another as much as technology permits)
 
 
 Rough estimate of initial profit milestone.
@@ -11,7 +11,7 @@ Rough estimate of initial profit milestone.
 * $11,000 daily post/view income
 * $1000 daily profit
 
-Transactions:
+##Transactions:
 
 User account create / modify
 	* Authentication credential
