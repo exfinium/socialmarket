@@ -25,7 +25,7 @@ To facilitate frequent proximal frictionless exchanges of value with sufficientl
 ### Floating exchange rate
 Value tokens within the system will not be pinned to any real world currency and will instead be regularly or constantly adjusted to follow the mean transaction value.  Account balances will be accounted as a share of total capitalisation of the market.
 ### Databases
-There will be user, post, and transaction databases that should be fully searchable directly by all participants.(for a fee based on running cost) User created queries should be easy to share and run.
+There will be user, post, and transaction databases that should be fully searchable directly by all participants.(for a fee based on running cost) User created queries should be easy to share and run.  Database writes will only be permitted from official front end apps or web page via a secure protocol.
 
 
 ## Rough estimate of break even milestone.
