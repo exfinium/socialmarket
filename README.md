@@ -10,7 +10,7 @@ Rough estimate of initial profit milestone.
 * $10,000 daily operating expend (including amortized capex)
 * $11,000 daily post/view income
 * $1000 daily profit
-* $0.01001 average daily user spend
+* $0.011 average daily user spend
 
 ## Transactions:
 
