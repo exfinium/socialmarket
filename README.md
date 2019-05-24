@@ -9,6 +9,9 @@ Humans are generally more thoughtful and intentional when the stakes are tangibl
 Provide a place for people to communicate and reward the communication of others and various patterns of cooperation will emerge.  If that place is devoid of arbitrary external regulation it will nevertheless become regulated by the sorting of the values of the participants. 
 ### True proximal price
 Everything has a cost, a value, and a price.  Many things seem free because the actual cost is hidden elsewhere.  A system that works to reveal all costs immediately and proximally provides the best foundation for rationally sorting values.
+* nothing is free
+### Secrets impede trust
+Secrets are important to people for various reasons.  This project will honour participants dignity by clearly and loudly declaring this place as devoid of any safe spaces for secrets.  It is unapolagetically and completely public.
 
 ## Technology
 ### Microtransactions
