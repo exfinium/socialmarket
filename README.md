@@ -21,7 +21,7 @@ The system does not allow the taking of credit - only the giving of it.  Negativ
 ### Microtransactions
 To facilitate frequent proximal frictionless exchanges of value with sufficently minimal overhead requires the implementation of a grade separated currency, similar in principle to tradable currecies found in many persistent computer game worlds.
 ### Floating exchange rate
-Value tokens within the system will not be pinned to any real world currency and will instead be regularly or constantly adjusted to follow the mean transaction value.  Account balances will accounted as a share of total capitalisation of the market.
+Value tokens within the system will not be pinned to any real world currency and will instead be regularly or constantly adjusted to follow the mean transaction value.  Account balances will be accounted as a share of total capitalisation of the market.
 
 ## Rough estimate of break even milestone.
 * 1,000,000 registered users
