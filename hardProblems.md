@@ -4,7 +4,7 @@
 * no secrets: firehose feed is available to all who can pay for it
 * policy of loud resistance to totalitarian imposition
 ### illegal content
-* court ordered removal referred to the user
+* court ordered removal referred to the user?
 * international infrastructure
 * connected national branches facilitating national censorship?
 * clear demarcation of censor jurisdictions in effect
