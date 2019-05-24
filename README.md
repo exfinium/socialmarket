@@ -8,9 +8,8 @@ Market regulated social network with completely granular userpay (avoiding all c
 * 1,000,000 daily posts @ $0.01
 * 100,000,000 posts viewed daily @ $0.00001
 * 1,000,000 post ranking transactions @0.000001
-* $10,000 daily operating expend (including amortized capex)
-* $11,100 daily post/view income
-* $1100 daily profit
+* $11,100 daily income
+* $11,100 daily operating expend (including amortized capex)
 * $0.0111 average daily user cost
 
 ## Transactions:
