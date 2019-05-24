@@ -24,7 +24,7 @@ There's a button for that, called kip.  It's a little bit of shoosh that you can
 #### But but criminally vile?
 Report criminal activity to the geographically relevant civil authority.  The forum management will comply with court orders in the jurisdictions it is subject to.
 
-If the offender is in a juridiction that doesn't find the post prosecutable maybe enough people will be equally willing to suppress the offensive item out of sight for everyone except those who definitely don't mind seeing it.
+If the offender is in a jurisdiction that doesn't find the post prosecutable maybe enough people will be equally willing to suppress the offensive item out of sight for everyone except those who definitely don't mind seeing it.
 
 #### Now that's just herding vileness into hidden cliques.
 Agreed. Other approaches are available here. Maybe some kind words and even a pip on one of the poster's non-vile posts will illuminate a path away from vileness?  At some point it may be neccessary to accept that some vileness will always exist and carry on regardless.  You can't win em all.
