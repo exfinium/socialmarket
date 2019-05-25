@@ -3,9 +3,7 @@
 ## money == power
 Yes. Some. In this system the only way to excersize that power is by paying some of that money to other people, and in the case of direct self promotion or suppressing others, by paying everybody.  There are distinct limits to the ability of money to command eyeballs on this system, probably to the point that sometimes the money is better spent elsewhere for the desired gains.
 
-If a sufficiently moneyed individual were to impose heavily on rankings and annoy people the result would be an overall richer community who would avail themselves of the available feed filtering tools to ignore them and perhaps pay special attention to anybody who was suppressed by them.
-
-A crude solution would be to ignore all self promoters or just the aggressive ones.  Though the self promotion feature is generally a fairly noble way to highlight a post you're particularly proud of by thowing some coin in the common.
+If a sufficiently moneyed individual were to impose heavily on rankings and annoy people the result would be an overall richer community who would avail themselves of the available feed filtering tools to ignore them and perhaps pay special attention to anybody who was suppressed by them.  Taking the idea to absurd extreme, if an individual or group paid their way to complete domination of rankings they would find themselves in imposing position on a less meaningful ranking system and to maintain that position they would need to continue pouring value into the common.  At this point people could simply filter out the top ranking posts and enjoy the windfall.
 
 #### The other end of the stick.
 The upside for the big spending participants is quite limited compared to the downside.  Now consider the least moneyed participants. The potential upside from a well placed insightful post is relatively open.
