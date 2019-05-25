@@ -6,7 +6,7 @@ Market regulated social network project where the ranking mechanism is based on 
 ### Meaningful communication
 Humans are generally more thoughtful and intentional when the stakes are tangible. By requiring interactions in a public forum to be backed by tangible value the hope is to facilitate more meaningful communication.
 ### Spontaneous order
-Provide a place for people to communicate and reward the communication of others and various patterns of talent and cooperation will emerge.  If that place is devoid of arbitrary external regulation it will nevertheless become regulated by the sorting of the values of the participants. 
+Provide a place for people to communicate and reward the communication of others and various patterns of talent and cooperation will emerge.  If that place is devoid of arbitrary external regulation it will nevertheless become regulated by the sorting of the values of the participants. This system is technically and constitutionally geared for absolutely no editorial, economic, or social intervention.
 ### Proximal price
 Everything has a cost, a value, and a price.  Many things seem free because the actual cost is hidden elsewhere.  This system will make every effort reveal all costs proximally and specifically.  Instead of a "free" service it will be an exceptionally cheap "user pays" service. As a consequence the participants are firmly the customer and not the product.
 ### Secrets impede trust
@@ -16,10 +16,9 @@ Every participant and every idea has equal opportunity and no person, group or i
 ### Positive credit
 The system does not allow the taking of credit - only the giving of it.  Negative feedback exists but when you pay to disapprove of a post the payment goes to the common and lifts everyone's balance.  Paying to elevate your own posts does the same.
 ### The common
-Payments to the common increase the spending power of the system currency, effectively and literally enriching everybody. Symbolically, payments to the common are material consideration in exchange for imposing a measure of imposition on the market.
+Payments to the common increase the spending power of the system currency, effectively and literally enriching everybody. Symbolically, payments to the common are material consideration in exchange for imposing a measure of imposition on the market.  It does not grant a right to anything in return beyond nudging one metric the participants can use to influence their feed.
 ### Deliberately simple
 There exists no system that can guarantee a desired outcome from human interactions.  This system provides only two levers of power available to all participants; credit, and words.  While additional measures may give people access to more nuanced influence, no amount of additional machinery can make the system fairer.
-
 
 ## Technology
 ### Microtransactions
