@@ -40,4 +40,6 @@ Be it the state or some intermediate inervening force, the administration may be
 #### Hazard: moneyed or heartfelt lobbying
 Lobbying for special exemption, sanction, or subsidy will inevitably arise from time to time.  As long as the adminstration remains rigid on it's principles it will happen fairly rarely.  The system wide principle of giving and not taking helps greatly here.  People can employ value and words to sway the populace directly and there is always the freedom to leave the system without penalty.
 
+#### Hazard: "benevolent" intervention
+The allure of using one's power for the greater good is pretty darn universal.  The remediation to this is mainly ideological humility which will be constitutionally enshrined and infused throughly into the administration and the system.
 
