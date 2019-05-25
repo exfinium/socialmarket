@@ -16,7 +16,7 @@ Every participant and every idea has equal opportunity and no person, group or i
 ### Positive credit
 The system does not allow the taking of credit - only the giving of it.  Negative feedback exists but when you pay to disapprove of a post the payment goes to the common and lifts everyone's balance.  Paying to elevate your own posts does the same.
 ### The common
-Payments to the common increase the spending power of the system currency, effectively and literally enriching everybody. Symbolically, payments to the common are material consideration in exchange for imposing a measure of imposition on the market.  It does not grant a right to anything in return beyond nudging one metric the participants can use to influence their feed.
+Payments to the common increase the spending power of the system currency, effectively and literally enriching everybody. Symbolically, payments to the common are material consideration in exchange for exerting a measure of imposition on the market.  It does not grant a right to anything in return beyond nudging one metric the participants can use to influence their feed.
 ### Deliberately simple
 There exists no system that can guarantee a desired outcome from human interactions.  This system provides only two levers of power available to all participants; credit, and words.  While additional measures may give people access to more nuanced influence, no amount of additional machinery can make the system fairer.
 
