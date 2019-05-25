@@ -1,6 +1,6 @@
 # social market
 
-Market regulated social network project.
+Market regulated social network project where the ranking mechanism is based on giving tangible value.
 
 ## Principles
 ### Meaningful communication
@@ -14,7 +14,9 @@ Secrets are important to people for various reasons.  This project will honour p
 ### Pure universality
 Every participant and every idea has equal opportunity and no person, group or idea will be granted privilege or penalty by the system itself. There will be no moderation of content by human or AI and no method of appeal to censorial authority.  The system will simply uprank the most valued and downrank the least valued content and give participants the freedom to choose how that ranking applies to their feed.
 ### Positive credit
-The system does not allow the taking of credit - only the giving of it.  Negative feedback exists but when you pay to disapprove of a post the payment goes to the commons and lifts everyone's balance.  Paying to approve of your own posts does the same.
+The system does not allow the taking of credit - only the giving of it.  Negative feedback exists but when you pay to disapprove of a post the payment goes to the common and lifts everyone's balance.  Paying to elevate your own posts does the same.
+### The common
+Payments to the common increase the spending power of the system currency, effectively and literally enriching everybody. Symbolically, payments to the common are material consideration in exchange for imposing a measure of imposition on the market.
 ### Deliberately simple
 There exists no system that can guarantee a desired outcome from human interactions.  This system provides only two levers of power available to all participants; credit, and words.  While additional measures may give people access to more nuanced influence, no amount of additional machinery can make the system fairer.
 
@@ -39,13 +41,17 @@ There will be user, post, and transaction databases that should be fully searcha
 
 ## Transactions:
 
-Pip a post (show approval/appreciation)
-* elevate the post's ranking
-* reward the poster
+Tip (give material credit)
+* transfer value to the receiver
+* no effect on ranking
 
-Kip a post (show disapproval/offence)
-* suppress the post's ranking
-* compensate the common
+Pip (give social appreciation)
+* transfer value to the common
+* elevate a post's ranking
+
+Kip (give social depreciation)
+* transfer value to the common
+* suppress a post's ranking
 
 User account create / modify
 * authentication credential
