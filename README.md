@@ -1,6 +1,11 @@
-# social market
+# social market concept
 
-Market regulated social network project where the ranking mechanism is based on giving tangible value.
+Social market is a pure market-based curation service enabled by frictionless micropayment technology.
+
+The primary and fundamental transaction provided by the social market service is named a pip.  A pip is a payment from an individual participant to the common in exchange for influencing the ranking of a piece of content.  It is effectively and literally paying all market participants for the right to influence the ranking of the content available on that market.  Pips and the resulting ranking data are the entirety of the necessary conceptual machinery that drives this curation system.  The resulting curation is driven entirely by the distributed knowledge, will, and material value invested by participants in the market.
+
+There are a multitude of possible variations in the delivery of and additions to this service but the soul of this concept is entirely contained in the pip transaction and it’s implications.  This proposal will lay out one possible complete implementation on a basis of a high libertarian ideal of non-intervention and unimpeachable ethics.
+
 
 ## Principles
 ### Meaningful communication
