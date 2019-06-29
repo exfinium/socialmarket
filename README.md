@@ -30,23 +30,21 @@ To facilitate frequent proximal frictionless exchanges of value with sufficientl
 ### Floating exchange rate
 Value tokens within the system will not be pinned to any real world currency and will instead be regularly or constantly adjusted to follow the mean transaction value.  Account balances will be accounted as a share of total capitalisation of the market.
 ### Databases
-There will be user, post, and transaction databases that should be fully searchable directly by all participants.(for a fee based on running cost) User created queries should be easy to share and run. 
+There will be user, post, and transaction databases that should be fully searchable directly by all participants.(for a fee based on running cost) User created queries should be easy to share and run.
+### API third party direct interface
+It will be possible and encouraged for third parties to integrate the system into their own content platforms.  The core organisation running this system may even not directly provide a user facing content application.
 
 
-## Rough estimate of break even milestone.
+## Hypothetical break even milestone.
 * 1,000,000 registered users
-* 1,000,000 daily posts @ $0.01
-* 100,000,000 posts viewed daily @ $0.00001
-* 1,000,000 post ranking transactions @ $0.000001
+* 1,000,000 daily posts @ ~$0.01
+* 100,000,000 posts viewed daily @ ~$0.00001
+* 1,000,000 post ranking transactions @ ~$0.000001
 * $11,100 daily income
 * $11,100 daily operating expend (including amortized capex)
 * $0.0111 average daily user cost
 
 ## Transactions:
-
-Tip (give material credit)
-* transfer value to the receiver
-* no effect on ranking
 
 Pip (give social appreciation)
 * transfer value to the common
@@ -55,6 +53,10 @@ Pip (give social appreciation)
 Kip (give social depreciation)
 * transfer value to the common
 * suppress a post's ranking
+
+Tip (give material credit)
+* transfer value to the receiver
+* no effect on ranking
 
 User account create / modify
 * authentication credential
@@ -70,6 +72,4 @@ View posts
 
 Create post
 * database update
-* web host
-
-
+* web host (maybe)
