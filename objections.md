@@ -52,4 +52,3 @@ The social market is not precisely a social credit system but it does have featu
 
 ## Markets aren't sustainable without regulation
 This project commits unreservedly to an assumption that markets can remain stably progressive without external manipulation but it is a fairly common belief that markets inevitably fail without some oversight by authority.  The believed consequences vary; regression towards total inequity, sustained disequillibrium, insurmountable game theoretic hazards.  If the latter position is true then this project will proceed to failure and serve as a cautionary tale.
-This project commits to an assumption 
