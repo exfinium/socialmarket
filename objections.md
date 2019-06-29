@@ -47,4 +47,9 @@ The allure of using one's power for the greater good is pretty darn universal.  
 The social market is not precisely a social credit system but it does have features that make it partly comparable.  This need not be a bad thing and may in fact improve the situation.
 * Inevitable is the rise of a variety of methods and technologies for sorting massive and distributed populations by trust and value.
 * Manipulation (nudging) of these populations will be attempted of course.
-* Explicit absolute abstenance from influence by a system will not only make it attractive but also grant competitive advantage through lower management costs.
+* Explicit absolute abstenance from influence by this system will not only make it attractive but also grant competitive advantage through lower management costs.
+* Influence and attempted manipulation will still be attempted but the means of doing so will be universally accessible and subject to marginal market forces.
+
+## Markets aren't sustainable without regulation
+This project commits unreservedly to an assumption that markets can remain stably progressive without external manipulation but it is a fairly common belief that markets inevitably fail without some oversight by authority.  The believed consequences vary; regression towards total inequity, sustained disequillibrium, insurmountable game theoretic hazards.  If the latter position is true then this project will proceed to failure and serve as a cautionary tale.
+This project commits to an assumption 
