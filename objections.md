@@ -52,3 +52,7 @@ The social market is not precisely a social credit system but it does have featu
 
 ## Markets aren't sustainable without regulation
 This project commits unreservedly to an assumption that markets can remain stably progressive without external manipulation but it is a fairly common belief that markets inevitably fail without some oversight by authority.  The believed consequences vary; regression towards total inequity, sustained disequillibrium, insurmountable game theoretic hazards.  If the latter position is true then this project will proceed to failure and serve as a cautionary tale.
+
+## It's not really a market because there are no double voluntary exchanges
+That feels like it's right but maybe the important part of a double voluntary exchange is the lack of coercion.  This system excludes coercion and still entails all the other hallmarks of a free market; supply, demand, and marginal utility reflected by prices.
+
