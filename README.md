@@ -6,6 +6,8 @@ The primary and fundamental transaction provided by the social market service is
 
 This proposal will lay out one possible complete implementation based on an anti-coercion ideal and unimpeachable ethics.
 
+[Questions](https://github.com/exfinium/socialmarket/questions.md) | [Objections](https://github.com/exfinium/socialmarket/objections.md) | [Hard Problems](https://github.com/exfinium/socialmarket/hardProblems.md)
+
 ## Principles
 ### Meaningful communication
 Humans are generally more thoughtful and intentional when the stakes are tangible. By requiring interactions in a public forum to be backed by tangible value the hope is to facilitate more meaningful communication.
