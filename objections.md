@@ -43,3 +43,8 @@ Lobbying for special exemption, sanction, or subsidy will inevitably arise from 
 #### Hazard: "benevolent" intervention
 The allure of using one's power for the greater good is pretty darn universal.  The remediation to this is mainly ideological humility which will be constitutionally enshrined and infused throughly into the administration and the system.
 
+## Social credit systems are scary
+The social market is not precisely a social credit system but it does have features that make it partly comparable.  This need not be a bad thing and may in fact improve the situation.
+* Inevitable is the rise of a variety of methods and technologies for sorting massive and distributed populations by trust and value.
+* Manipulation (nudging) of these populations will be attempted of course.
+* Explicit absolute abstenance from influence by a system will not only make it attractive but also grant competitive advantage through lower management costs.
