@@ -35,7 +35,7 @@ It leverages market dynamics and spontaneous order to sort online content accord
 *	Extreme heavy use cases would be supported such as “fire hose” feeds or constantly updating or complex database queries with the relative cost being charged immediately and directly to any user that deems such activity worth the price.
 *	Functional business units responsible for the various components will run on a break-even budget with rewards for improving service quality and efficiency.
 *	During the initial start-up period of the service transaction costs may need to be subsidised to reasonable levels by a capital advance.
-The economics: 
+### The economics: 
 *	The ranking transaction is superficially a zero-sum unidirectional transaction, a payment to the common for influencing content exposure, leaving every other user slightly richer but leaving the total market no richer or poorer.  Wealth creation within the system will be apparent if people choose to transfer currency into their account and use it to promote content AND enough people find the resulting curation worth the cost of participation.
 
 ...tbc
