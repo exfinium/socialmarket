@@ -1,6 +1,9 @@
 # socialmarket
 Market regulated social network concept where the ranking mechanism is based on giving tangible value.
 
+
+[Questions](https://github.com/exfinium/socialmarket/blob/master/questions.md) | [Objections](https://github.com/exfinium/socialmarket/blob/master/objections.md) | [Hard Problems](https://github.com/exfinium/socialmarket/blob/master/hardProblems.md)
+
 ## What is it?
 An ordinal ranking system for internet content that takes ranking input exclusively from voluntary payment of tangible value to the collective common.
 ## What is it for?
@@ -36,3 +39,4 @@ The economics:
 *	The ranking transaction is superficially a zero-sum unidirectional transaction, a payment to the common for influencing content exposure, leaving every other user slightly richer but leaving the total market no richer or poorer.  Wealth creation within the system will be apparent if people choose to transfer currency into their account and use it to promote content AND enough people find the resulting curation worth the cost of participation.
 
 ...tbc
+[Old Readme](https://github.com/exfinium/socialmarket/blob/master/README_old.md)
