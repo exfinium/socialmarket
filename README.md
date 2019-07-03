@@ -39,4 +39,5 @@ The economics:
 *	The ranking transaction is superficially a zero-sum unidirectional transaction, a payment to the common for influencing content exposure, leaving every other user slightly richer but leaving the total market no richer or poorer.  Wealth creation within the system will be apparent if people choose to transfer currency into their account and use it to promote content AND enough people find the resulting curation worth the cost of participation.
 
 ...tbc
+
 [Old Readme](https://github.com/exfinium/socialmarket/blob/master/README_old.md)
