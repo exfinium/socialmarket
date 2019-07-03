@@ -6,7 +6,7 @@ Market regulated social network concept where the ranking mechanism is based on 
 
 ## What is it?
 An ordinal ranking system for internet content that takes ranking input exclusively from voluntary payment of tangible value to the collective common.
-## What is it for?
+## What's it for?
 More meaningful skin-in-the-game content ranking/curation.
 *	It replaces zero-cost end user ranking methods (like, thumbs up/down) with tangible-value end user ranking so that the resulting rank represents the real value committed to the relative rank of each item.
 *	It also replaces human and AI based content moderation or curation with the same tangible-value end user ranking, effectively relying on the collective user base to elevate the desirable and suppress the undesirable.
